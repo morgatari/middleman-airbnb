@@ -1,0 +1,22 @@
+# data/flats.yml
+talesunited:
+  name: "Fernando's home"
+  description: "Charming room in Montmartre"
+  city_name: "Paris, France"
+  city_slug: "paris"
+  wifi: false
+  rating: 4
+hamood93:
+  name: "Mohamed's home"
+  description: Small flat in Tokyo
+  city_name: "Paris, France"
+  city_slug: "tokyo"
+  wifi: true
+  rating: 3
+gnovo:
+  name: Gonçalo's home
+  description: Nice flat in Piccadilly
+  city_name: "London, UK"
+  city_slug: "london"
+  wifi: true
+  rating: 5
